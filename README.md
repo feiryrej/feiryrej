@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer and the UI/UX Lead of GDSC PUP</h3>
 <br>
 
+<img align="right" alt="sailor moon" width="400" src="https://64.media.tumblr.com/851155b513a64d3b4a206cf60c14a70c/tumblr_p5jki1fsY41wxqm6uo1_540.gif">
+
 - 🔭 I’m currently working on **PUPSIS revamp**
 
 - 🌱 I’m currently learning **JavaScript**
