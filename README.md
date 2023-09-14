@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Regina Bonifacio</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h1 align="center">Welcome peeps, I'm Regina Bonifacio🎀🍥💗</h1>
+<h3 align="center">A passionate frontend developer and the UI/UX Lead of GDSC PUP</h3>
+<br>
 
 - 🔭 I’m currently working on **PUPSIS revamp**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [feelings, coding, nature](feelings, coding, nature)
+- 📝 I regularly write articles on feelings, coding, nature
 
 - 💬 Ask me about **HTML, CSS, UI/UX**
 
@@ -29,6 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feiryrej&" alt="feiryrej" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feiryrej" alt="feiryrej" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/feiryrej" target="blank"><img src="https://img.shields.io/twitter/follow/feiryrej?logo=twitter&style=for-the-badge" alt="feiryrej" /></a> </p>
