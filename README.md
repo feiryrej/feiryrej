@@ -1,6 +1,7 @@
 <h1 align="center">Welcome peeps, I'm Regina Bonifacio🎀🍥💗</h1>
-<h3 align="center">A passionate frontend developer and the UI/UX Lead of GDSC PUP</h3>
-<br>
+  <img src="http://readme-typing-svg.herokuapp.com?font=Bentham&pause=1000&color=f788f7&center=true&vCenter=true&width=600&lines=A+passionate+frontend+developer;The+UI+/+UX+Lead+of+GDSC+PUP;Aspiring+Game+and+Web+Developer" alt="Typing SVG" style="width: 900px;">
+
+
 
 <img align="right" alt="sailor moon" width="400" src="https://64.media.tumblr.com/851155b513a64d3b4a206cf60c14a70c/tumblr_p5jki1fsY41wxqm6uo1_540.gif">
 
