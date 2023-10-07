@@ -11,7 +11,7 @@
 - 📍 I’m From Philippines 
 - 💻 1+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & UI/UX Lead of GDSC
-- 📚 I’m currently learning **JavaScript**
+- 📚 I’m currently learning **JavaScript** and **nihonggo**
 - 🔭 I’m currently working on **PUPSIS revamp** 
 - 📝 I regularly write articles on feelings, coding, metaphysics 
 - 💬 Ask me about **HTML, CSS, UI/UX**
