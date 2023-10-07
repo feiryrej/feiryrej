@@ -1,3 +1,5 @@
+<img src="https://github.com/feiryrej/feiryrej/blob/master/Regina.png">
+
 <h1 align="center">Welcome peeps, I'm Regina Bonifacio🎀🍥💗</h1>
 
 <img src="http://readme-typing-svg.herokuapp.com?font=Bentham&pause=1000&color=f788f7&center=true&vCenter=true&width=600&lines=A+passionate+frontend+developer;The+UI+/+UX+Lead+of+GDSC+PUP;Aspiring+Game+and+Web+Developer" alt="Typing SVG" style="width: 900px;">
