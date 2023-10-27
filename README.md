@@ -57,15 +57,6 @@
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feiryrej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </td>
-  </tr>
-</table>
 
 
 
