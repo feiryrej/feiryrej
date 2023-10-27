@@ -12,7 +12,7 @@
 - 💻 1+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & UI/UX Lead of GDSC
 - 📚 I’m currently learning **JavaScript** and **nihonggo**
-- 🔭 I’m currently working on **PUPSIS revamp** 
+- 🔭 I’m currently working on **GDSC Web UI** 
 - 📝 I regularly write articles on feelings, coding, metaphysics 
 - 💬 Ask me about **HTML, CSS, UI/UX**
 - 📫 How to reach me **rejinimikasi06@gmail.com**
@@ -56,3 +56,6 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+
+
