@@ -12,61 +12,61 @@ text, tspan {white-space: pre;}
 
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
-<text x="30" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="30" y="60">             .-=++****####*+=:.  </tspan>
-<tspan x="30" y="75">           .=#%#++*#%%%@%@%%@%%*- </tspan>
-<tspan x="30" y="90">          -#%**+==+++#%%%%%%#%%%%#: </tspan>
-<tspan x="30" y="105">         +#*+++----=+=###%####%%%#%= </tspan>
-<tspan x="30" y="120">        +***+=-:::::===++*#+*####*##= </tspan>
-<tspan x="30" y="135">       =++#+=-::::::-+---=*=*+*+#*#%*- </tspan>
-<tspan x="30" y="150">      :+=#*=--:::-===++::=*-+++=**##**. </tspan>
-<tspan x="30" y="165">      -=+###*=-:-+*****::-*+*++=*+##*+: </tspan>
-<tspan x="30" y="180">     :==#@#%##-:-=#**%#=.:++*++++=##++: </tspan>
-<tspan x="30" y="195">    :-==#%##*-..:-=+*#*=.:=+#+++*=#**+: </tspan>
-<tspan x="30" y="210">    :==+*=++-....::-:-==.-+*#+++*+#+++- </tspan>
-<tspan x="30" y="225">    =+=+*==++---.:::::-=:-+*%++*+**+=++ </tspan>
-<tspan x="30" y="240">   :*+=*#=----........-=:=***+**+#+*=+*. </tspan>
-<tspan x="30" y="255">   -#+=*%+=*#**+-.....:+-=*#=+*=##**-+%- </tspan>
-<tspan x="30" y="270">   +#*+#@*=+++=---::.:-+-+#*-=++#*#+=*@+ </tspan>
-<tspan x="30" y="285">  -*#*+#@%+=--::...::-+*=+#==*+#*#++*%%# </tspan>
-<tspan x="30" y="300">  -*##+#@@%+--:....:-+#+#+==++#*#***%@*%- </tspan>
-<tspan x="30" y="315">  -###*#%%@@%##*==+*%@#%#===*#*#***#%#-+* </tspan>
-<tspan x="30" y="330">  +###*#%%%%@@@@+=+*%###=+=***#***#@#%=.*= </tspan>
-<tspan x="30" y="345">  *###*%%%%%@@@@#***##*=++******#%@@@%=.*= </tspan>
-<tspan x="30" y="360">.-%%#%*%@%%%@@@@%####*+******#%%@@@%@@#:-+ </tspan>
-<tspan x="30" y="375">:+%%*%*@@#%@@@@@%###**##**#%@%@@@@@@@@@+-#.</tspan>
-<tspan x="30" y="390">-#%%###@%%%@@@@%#%#*##**#%@%%@@@%%%@@@%@=*= </tspan>
-<tspan x="30" y="405">=%####%@#%%@@@%%%###*##%@@%%@@@@@%%%%@%@@+* </tspan>
-<tspan x="30" y="420">**%##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
-<tspan x="30" y="435">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
-<tspan x="30" y="450">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
-<tspan x="30" y="465">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%:</tspan>
-<tspan x="30" y="480">#%%%%%%%%%#+++++++*=#++++%%%%%#**%%%*#%%%</tspan>
-<tspan x="30" y="495">#%%%%%%%%%#+++*****=#%%%%%%%%%#**%%%</tspan>
-<tspan x="30" y="510">#%%%%%%%%%#+*******=#%%%%%%%%%#**%%%</tspan>
+<text x="25" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="25" y="60">             .-=++****####*+=:.  </tspan>
+<tspan x="25" y="75">           .=#%#++*#%%%@%@%%@%%*- </tspan>
+<tspan x="25" y="90">          -#%**+==+++#%%%%%%#%%%%#: </tspan>
+<tspan x="25" y="105">         +#*+++----=+=###%####%%%#%= </tspan>
+<tspan x="25" y="120">        +***+=-:::::===++*#+*####*##= </tspan>
+<tspan x="25" y="135">       =++#+=-::::::-+---=*=*+*+#*#%*- </tspan>
+<tspan x="25" y="150">      :+=#*=--:::-===++::=*-+++=**##**. </tspan>
+<tspan x="25" y="165">      -=+###*=-:-+*****::-*+*++=*+##*+: </tspan>
+<tspan x="25" y="180">     :==#@#%##-:-=#**%#=.:++*++++=##++: </tspan>
+<tspan x="25" y="195">    :-==#%##*-..:-=+*#*=.:=+#+++*=#**+: </tspan>
+<tspan x="25" y="210">    :==+*=++-....::-:-==.-+*#+++*+#+++- </tspan>
+<tspan x="25" y="225">    =+=+*==++---.:::::-=:-+*%++*+**+=++ </tspan>
+<tspan x="25" y="240">   :*+=*#=----........-=:=***+**+#+*=+*. </tspan>
+<tspan x="25" y="255">   -#+=*%+=*#**+-.....:+-=*#=+*=##**-+%- </tspan>
+<tspan x="25" y="270">   +#*+#@*=+++=---::.:-+-+#*-=++#*#+=*@+ </tspan>
+<tspan x="25" y="285">  -*#*+#@%+=--::...::-+*=+#==*+#*#++*%%# </tspan>
+<tspan x="25" y="300">  -*##+#@@%+--:....:-+#+#+==++#*#***%@*%- </tspan>
+<tspan x="25" y="315">  -###*#%%@@%##*==+*%@#%#===*#*#***#%#-+* </tspan>
+<tspan x="25" y="330">  +###*#%%%%@@@@+=+*%###=+=***#***#@#%=.*= </tspan>
+<tspan x="25" y="345">  *###*%%%%%@@@@#***##*=++******#%@@@%=.*= </tspan>
+<tspan x="25" y="360">.-%%#%*%@%%%@@@@%####*+******#%%@@@%@@#:-+ </tspan>
+<tspan x="25" y="375">:+%%*%*@@#%@@@@@%###**##**#%@%@@@@@@@@@+-#.</tspan>
+<tspan x="25" y="390">-#%%###@%%%@@@@%#%#*##**#%@%%@@@%%%@@@%@=*= </tspan>
+<tspan x="25" y="405">=%####%@#%%@@@%%%###*##%@@%%@@@@@%%%%@%@@+* </tspan>
+<tspan x="25" y="420">**%##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
+<tspan x="25" y="435">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
+<tspan x="25" y="450">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%: </tspan>
+<tspan x="25" y="465">-%*##%@%%%@@@@%%######@@@%%@%@%@@#%%#%@%@@%:</tspan>
+<tspan x="25" y="480">#%%%%%%%%%#+++++++*=#++++%%%%%#**%%%*#%%%%%:</tspan>
+<tspan x="25" y="495">#%%%%%%%%%#+++*****=#%%%%%%%%%#**%%%#%%%%%%:</tspan>
+<tspan x="25" y="510">#%%%%%%%%%#+*******=#%%%%%%%%%#**%%%#%%%%%%:</tspan>
 </text>
 
-<text x="415" y="30" fill="#c9d1d9">
-<tspan x="415" y="30">@Feiryrej</tspan>
-<tspan x="415" y="50">——————</tspan>
-<tspan x="415" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
-<tspan x="415" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
-<tspan x="415" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of the Philippines</tspan><tspan class="commentColor"> #PUP</tspan>
-<tspan x="415" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor of Science in Computer Science</tspan><tspan class="commentColor"> #BSCS</tspan>
-<tspan x="415" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, NetBeans, Dev-C++, Eclipse</tspan>
-<tspan x="415" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, JavaScript</tspan>
-<tspan x="415" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
-<tspan x="415" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Filipino</tspan>
-<tspan x="415" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Software Development, Novels, Metaphysics</tspan>
-<tspan x="415" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Watching, Listening, Reading</tspan>
-<tspan x="415" y="330" class="keyColor">Contact</tspan>:
-<tspan x="415" y="350">——————</tspan>
-<tspan x="415" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">rejinimikasi06@gmail.com</tspan>
-<tspan x="415" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">@reginabonifacio</tspan>
-<tspan x="415" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">feiryrej</tspan>
-<tspan x="415" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="415" y="470">——————</tspan>
-<tspan x="415" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">33</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">470  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">16</tspan>
-<tspan x="415" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">43  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">10,245</tspan> (<tspan class="addColor">5,734++</tspan>, <tspan class="delColor">4,376--</tspan>)
+<text x="420" y="30" fill="#c9d1d9">
+<tspan x="420" y="30">@Feiryrej</tspan>
+<tspan x="420" y="50">——————</tspan>
+<tspan x="420" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
+<tspan x="420" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
+<tspan x="420" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of the Philippines</tspan><tspan class="commentColor"> #PUP</tspan>
+<tspan x="420" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor of Science in Computer Science</tspan><tspan class="commentColor"> #BSCS</tspan>
+<tspan x="420" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, NetBeans, Dev-C++, Eclipse</tspan>
+<tspan x="420" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, JavaScript</tspan>
+<tspan x="420" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
+<tspan x="420" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Filipino</tspan>
+<tspan x="420" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Software Development, Novels, Metaphysics</tspan>
+<tspan x="420" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Watching, Listening, Reading</tspan>
+<tspan x="420" y="330" class="keyColor">Contact</tspan>:
+<tspan x="420" y="350">——————</tspan>
+<tspan x="420" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">rejinimikasi06@gmail.com</tspan>
+<tspan x="420" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">@reginabonifacio</tspan>
+<tspan x="420" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">feiryrej</tspan>
+<tspan x="420" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="420" y="470">——————</tspan>
+<tspan x="420" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">33</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">470  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">16</tspan>
+<tspan x="420" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">43  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">10,245</tspan> (<tspan class="addColor">5,734++</tspan>, <tspan class="delColor">4,376--</tspan>)
 </text>
 </svg>
