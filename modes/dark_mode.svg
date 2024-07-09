@@ -46,27 +46,27 @@ text, tspan {white-space: pre;}
 <tspan x="25" y="510">#%%%%%%%%%#+*******=#%%%%%%%%%#**%%%#%%%%%%:</tspan>
 </text>
 
-<text x="420" y="30" fill="#c9d1d9">
-<tspan x="420" y="30">@Feiryrej</tspan>
-<tspan x="420" y="50">——————</tspan>
-<tspan x="420" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
-<tspan x="420" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
-<tspan x="420" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of the Philippines</tspan><tspan class="commentColor"> #PUP</tspan>
-<tspan x="420" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor of Science in Computer Science</tspan><tspan class="commentColor"> #BSCS</tspan>
-<tspan x="420" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, NetBeans, Dev-C++, Eclipse</tspan>
-<tspan x="420" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, JavaScript</tspan>
-<tspan x="420" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
-<tspan x="420" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Filipino</tspan>
-<tspan x="420" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Software Development, Novels, Metaphysics</tspan>
-<tspan x="420" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Watching, Listening, Reading</tspan>
-<tspan x="420" y="330" class="keyColor">Contact</tspan>:
-<tspan x="420" y="350">——————</tspan>
-<tspan x="420" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">rejinimikasi06@gmail.com</tspan>
-<tspan x="420" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">@reginabonifacio</tspan>
-<tspan x="420" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">feiryrej</tspan>
-<tspan x="420" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="420" y="470">——————</tspan>
-<tspan x="420" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">33</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">470  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">16</tspan>
-<tspan x="420" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">43  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">10,245</tspan> (<tspan class="addColor">5,734++</tspan>, <tspan class="delColor">4,376--</tspan>)
+<text x="430" y="30" fill="#c9d1d9">
+<tspan x="430" y="30">@Feiryrej</tspan>
+<tspan x="430" y="50">——————</tspan>
+<tspan x="430" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
+<tspan x="430" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
+<tspan x="430" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of the Philippines</tspan><tspan class="commentColor"> #PUP</tspan>
+<tspan x="430" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor of Science in Computer Science</tspan><tspan class="commentColor"> #BSCS</tspan>
+<tspan x="430" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, NetBeans, Dev-C++, Eclipse</tspan>
+<tspan x="430" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, JavaScript</tspan>
+<tspan x="430" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
+<tspan x="430" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Filipino</tspan>
+<tspan x="430" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Software Development, Novels, Metaphysics</tspan>
+<tspan x="430" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Watching, Listening, Reading</tspan>
+<tspan x="430" y="330" class="keyColor">Contact</tspan>:
+<tspan x="430" y="350">——————</tspan>
+<tspan x="430" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">rejinimikasi06@gmail.com</tspan>
+<tspan x="430" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">@reginabonifacio</tspan>
+<tspan x="430" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">feiryrej</tspan>
+<tspan x="430" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="430" y="470">——————</tspan>
+<tspan x="430" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">33</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">470  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">16</tspan>
+<tspan x="430" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">43  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">10,245</tspan> (<tspan class="addColor">5,734++</tspan>, <tspan class="delColor">4,376--</tspan>)
 </text>
 </svg>
