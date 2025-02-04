@@ -1,0 +1,42 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      - name: Run stats update script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python script.py
+  
+      - name: Commit files and push changes
+        run: |-
+          git add .
+          git diff
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions [bot]"
+          git commit -m "Updated SVGs for light & dark mode" -a || echo "No changes to commit"
+          git push
