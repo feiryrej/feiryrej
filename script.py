@@ -7,7 +7,7 @@ def get_github_stats(token):
     """Fetch GitHub statistics using the GitHub API."""
     # Initialize GitHub API
     g = Github(token)
-    user = g.get_user("krislette")
+    user = g.get_user("feiryrej")
 
     # Initialize statistics
     stats = {
