@@ -1,4 +1,4 @@
-<img src="http://readme-typing-svg.herokuapp.com?font=Bentham&pause=1000&color=f788f7&center=true&vCenter=true&width=600&lines=I+am+Regina+Bonifacio🍓🦈;A+fullstack+developer;The+UI+/+UX+Lead+of+GDSC+PUP;Aspiring+Game+and+Web+Developer" alt="Typing SVG" style="width: 900px;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Bentham&pause=1000&color=f788f7&center=true&vCenter=true&width=600&lines=I+am+Regina+Bonifacio🍓🦈;A+fullstack+developer;Aspiring+Game+and+Web+Developer" alt="Typing SVG" style="width: 900px;">
 
 <div align="center">
   <a href="https://github.com/krislette/krislette">
