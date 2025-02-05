@@ -173,7 +173,7 @@ def update_lines_section(tspans, i, stats):
 def update_uptime_section(tspans, i):
     """Update uptime statistics in the SVG."""
     # Mah birthday
-    birth_date = date(2004, 01, 06)
+    birth_date = date(2004, 1, 6)
 
     years, months, days = calculate_uptime(birth_date)
     next_tspan = tspans[i + 1]
