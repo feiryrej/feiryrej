@@ -150,24 +150,28 @@ def update_lines_section(tspans, i, stats):
     total_lines = stats['additions'] + stats['deletions']
 
     # Update total lines
-    next_tspan = tspans[i + 1]
-    next_tspan.text = f"{total_lines:,}"
-    updates += 1
-    print(f"Updated total lines to: {total_lines:,}")
+    next_tspan = tspans[i + 1] if i + 1 < len(tspans) else None
+    if next_tspan is not None:
+        next_tspan.text = f"{total_lines:,}"
+        updates += 1
+        print(f"Updated total lines to: {total_lines:,}")
 
     # Update additions
-    additions_tspan = tspans[i + 2]
-    additions_tspan.text = f"{stats['additions']:,}++"
-    updates += 1
-    print(f"Updated additions to: {stats['additions']:,}++")
+    additions_tspan = tspans[i + 2] if i + 2 < len(tspans) else None
+    if additions_tspan is not None:
+        additions_tspan.text = f"{stats['additions']:,}++"
+        updates += 1
+        print(f"Updated additions to: {stats['additions']:,}++")
 
     # Update deletions
-    deletions_tspan = tspans[i + 3]
-    deletions_tspan.text = f"{stats['deletions']:,}--"
-    updates += 1
-    print(f"Updated deletions to: {stats['deletions']:,}--")
+    deletions_tspan = tspans[i + 3] if i + 3 < len(tspans) else None
+    if deletions_tspan is not None:
+        deletions_tspan.text = f"{stats['deletions']:,}--"
+        updates += 1
+        print(f"Updated deletions to: {stats['deletions']:,}--")
 
     return updates
+
 
 
 def update_uptime_section(tspans, i):
