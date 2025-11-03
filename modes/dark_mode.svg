@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <tspan x="430" y="30">@Feiryrej</tspan>
 <tspan x="430" y="50">——————</tspan>
 <tspan x="430" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
-<tspan x="430" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 9 months, 26 days</tspan>
+<tspan x="430" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 9 months, 27 days</tspan>
 <tspan x="430" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of the Philippines</tspan><tspan class="commentColor"> #PUP</tspan>
 <tspan x="430" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor of Science in Computer Science</tspan><tspan class="commentColor"> #BSCS</tspan>
 <tspan x="430" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, NetBeans, Dev-C++, Eclipse, Visual Studio</tspan>
@@ -66,7 +66,7 @@ text, tspan {white-space: pre;}
 <tspan x="430" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">feiryrej</tspan>
 <tspan x="430" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="430" y="470">——————</tspan>
-<tspan x="430" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">48</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">2,543</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">28</tspan>
-<tspan x="430" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53</tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4,046,563</tspan>
+<tspan x="430" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">48</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">1</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">2,544</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">28</tspan>
+<tspan x="430" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53</tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">4,046,571</tspan>
 </text>
 </svg>
